@@ -1,0 +1,5 @@
+D:\ruanmou\OpenCourse\designmode\15 TemplateMethod\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+D:\ruanmou\OpenCourse\designmode\15 TemplateMethod\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+D:\ruanmou\OpenCourse\designmode\15 TemplateMethod\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+D:\ruanmou\OpenCourse\designmode\15 TemplateMethod\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+D:\ruanmou\OpenCourse\designmode\15 TemplateMethod\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
