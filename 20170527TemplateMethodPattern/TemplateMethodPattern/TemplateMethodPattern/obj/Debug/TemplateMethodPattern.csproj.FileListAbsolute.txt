@@ -3,3 +3,6 @@ D:\ruanmou\OpenCourse\designmode\15 TemplateMethod\TemplateMethodPattern\Templat
 D:\ruanmou\OpenCourse\designmode\15 TemplateMethod\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
 D:\ruanmou\OpenCourse\designmode\15 TemplateMethod\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
 D:\ruanmou\OpenCourse\designmode\15 TemplateMethod\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
+F:\学习笔记\demo\learning\20170527TemplateMethodPattern\TemplateMethodPattern\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+F:\学习笔记\demo\learning\20170527TemplateMethodPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+F:\学习笔记\demo\learning\20170527TemplateMethodPattern\TemplateMethodPattern\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb
